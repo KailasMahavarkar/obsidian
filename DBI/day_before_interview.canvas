@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"will you be happy?","id":"f9872f790d2cc79c","x":-440,"y":-5,"width":250,"height":65},
+		{"type":"text","text":"will you be happy?","id":"c1384ebb8f02a731","x":-440,"y":120,"width":250,"height":65},
+		{"type":"text","text":"calculate risks vs rewards\n(in perspective of her)","id":"34b9243db4d71458","x":73,"y":-140,"width":295,"height":100},
+		{"type":"text","text":"what is you motive?","id":"e5b8d7f934f9be95","x":-440,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"why do you want to join this company?","id":"1fd2eea62f79541b","x":-177,"y":-380,"width":250,"height":96},
+		{"type":"text","text":"risks","id":"c63b73a56c5b9caf","x":-120,"y":60,"width":295,"height":60},
+		{"type":"text","text":"rewards","id":"72d661a6b4bda6a2","x":220,"y":60,"width":295,"height":60}
+	],
+	"edges":[
+		{"id":"2d06bf71c9d49053","fromNode":"1fd2eea62f79541b","fromSide":"bottom","toNode":"e5b8d7f934f9be95","toSide":"top"},
+		{"id":"97552c9761ac1673","fromNode":"1fd2eea62f79541b","fromSide":"bottom","toNode":"34b9243db4d71458","toSide":"top"},
+		{"id":"bc78acb7f0f19482","fromNode":"34b9243db4d71458","fromSide":"bottom","toNode":"c63b73a56c5b9caf","toSide":"top"},
+		{"id":"739a192b963698a1","fromNode":"e5b8d7f934f9be95","fromSide":"bottom","toNode":"f9872f790d2cc79c","toSide":"top"},
+		{"id":"4b7304ebb98958c4","fromNode":"34b9243db4d71458","fromSide":"bottom","toNode":"72d661a6b4bda6a2","toSide":"top"}
+	]
+}

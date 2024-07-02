@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"08b7a01637138ba3","type":"text","text":"[[my locked notes]]","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7b5da5418570aed5","type":"text","text":"A\n","x":-338,"y":230,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"41f17a57f6d2c006","fromNode":"08b7a01637138ba3","fromSide":"bottom","toNode":"7b5da5418570aed5","toSide":"top"}
+	]
+}

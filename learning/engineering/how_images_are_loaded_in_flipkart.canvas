@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c9b32c357ac6f9be","x":-900,"y":-500,"width":980,"height":580,"type":"group","label":"image island"},
+		{"id":"2e1b15ca8e912f3e","x":-850,"y":-420,"width":150,"height":60,"type":"text","text":"srcset"},
+		{"id":"4df32a97ad9a9958","x":-480,"y":-440,"width":370,"height":100,"type":"text","text":"A list of one of more strings separated by commas indicating a set of possible image sources for the user agent to use"},
+		{"id":"ffdb8c249aa750a5","type":"text","text":"```html\n<img \n\tsrc=\"img/cat-500.jpg\"\n\tsrcset=\"\n\t\timg/cat-500.jpg,\n\t\timg/cat-1000.jpg,\n\t\timg/cat-1500.jpg\n\t\" \n/>\n```","x":-505,"y":-240,"width":420,"height":280}
+	],
+	"edges":[
+		{"id":"5315bbaf80a1151f","fromNode":"2e1b15ca8e912f3e","fromSide":"right","toNode":"4df32a97ad9a9958","toSide":"left","label":"defination"},
+		{"id":"ae0d2af13e941dcd","fromNode":"4df32a97ad9a9958","fromSide":"bottom","toNode":"ffdb8c249aa750a5","toSide":"top","label":"syntax"}
+	]
+}

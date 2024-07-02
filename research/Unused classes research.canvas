@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"type":"text","text":"overflow-x-visible\noverflow-y-visible\n\t-> if someone has applied overflow-x-hidden he may choose to clear the class as choice, instead of using overflow-x-visible\n\n","id":"fe62910f4c379e0c","x":-820,"y":-480,"width":840,"height":160},
+		{"type":"text","text":"right-auto\n\t-> remove\n\nright-half\n\t-> we can use this with top-half and right-half\n\t-> same behavior can be achieved with left-half\n\t-> remove\n\n","id":"6af2e65b271271dc","x":-820,"y":-260,"width":840,"height":260},
+		{"type":"text","text":"vertical-align-baseline\n-> check inheritance","id":"2bddc97a04d5378f","x":-820,"y":-660,"width":840,"height":116},
+		{"type":"text","text":"right-full\n-> skeptical","id":"ba1560324a07a9f0","x":-820,"y":111,"width":840,"height":100},
+		{"type":"file","file":"Notes/images/Pasted image 20230811103043.png","id":"6d673b636503a5f0","x":180,"y":-26,"width":939,"height":375},
+		{"type":"text","text":"bottom-auto\n-> remove it\n\n---\n\nleft: 50%\nright: 50%\nbottom: auto\n\nif we do this and apply bottom-auto it wont result in any changes","id":"c9ce24a4a6ef0631","x":-820,"y":300,"width":840,"height":340},
+		{"type":"text","text":"bottom-half\n-> remove it\n\nsame as top: 50%","id":"9a2558eab6f835a8","x":-820,"y":700,"width":840,"height":140},
+		{"type":"text","text":"flex-wrap: wrap-reverse\n-> skeptical","id":"b8697416ab86b607","x":-820,"y":1003,"width":840,"height":117},
+		{"type":"file","file":"Notes/images/Pasted image 20230811104357.png","id":"9fc3b8d33660fc25","x":180,"y":826,"width":840,"height":432},
+		{"type":"text","text":"md:flex-direction-column\nmd:flex-basis-0\nmd:flex-basis-auto\n-> should keep for responsiveness","id":"935e496d51e3da05","x":-820,"y":1220,"width":840,"height":158},
+		{"type":"text","text":"p-9\n-> should keep\n","id":"4b559297503ce9a9","x":-820,"y":1480,"width":840,"height":100},
+		{"type":"text","text":"pb-3/4\npb-2/3\n\n-> keep it (aspect ratio)","id":"f7b4dc1133cd030b","x":-820,"y":1680,"width":840,"height":160},
+		{"type":"text","text":"md:p-0.5\nmd:p-1.5\nmd:p-2\n\n\nmd:p-6\nmd:p-7\nmd:p-8\nmd:p-9\n\nmd:pt-9\nmd:pr-0.5\nmd:pb-9\nmd:pl-0.5\n\n\n","id":"39010d5c90f00e6c","x":-820,"y":1920,"width":840,"height":400},
+		{"type":"text","text":"m-0.5\nm-1.5\nm-5\n","id":"800b3f8475ac9ffd","x":-820,"y":2420,"width":840,"height":260},
+		{"type":"file","file":"Notes/images/Pasted image 20230811103612.png","id":"864f0865e3191c34","x":180,"y":-746,"width":400,"height":288},
+		{"type":"text","text":".md:font-size-0\t","id":"066106776016a7cb","x":-820,"y":2800,"width":250,"height":60},
+		{"type":"text","text":"https://ct-tech.atlassian.net/l/cp/ehbisWZ0","id":"ff38516dcd86fc50","x":-816,"y":3254,"width":596,"height":66},
+		{"type":"text","text":".bg-gradient-charcoal-light -> recent\n.bg-gradient-charcoal-dark -> recent\n\n.bg-repeat-y\t-> remove\n\n.bg-size-contain  -> user","id":"a404cbd1805346f5","x":-844,"y":2908,"width":604,"height":212}
+	],
+	"edges":[
+		{"id":"a7fad196673be5b2","fromNode":"6af2e65b271271dc","fromSide":"bottom","toNode":"ba1560324a07a9f0","toSide":"top"},
+		{"id":"931dfb9cb24aba93","fromNode":"ba1560324a07a9f0","fromSide":"right","toNode":"6d673b636503a5f0","toSide":"left"},
+		{"id":"bd545aa716842106","fromNode":"fe62910f4c379e0c","fromSide":"bottom","toNode":"6af2e65b271271dc","toSide":"top"},
+		{"id":"4181e3fe0418913a","fromNode":"2bddc97a04d5378f","fromSide":"bottom","toNode":"fe62910f4c379e0c","toSide":"top"},
+		{"id":"7605f2ac2a2e0b28","fromNode":"2bddc97a04d5378f","fromSide":"right","toNode":"864f0865e3191c34","toSide":"left"},
+		{"id":"a478d4eedd1afca8","fromNode":"ba1560324a07a9f0","fromSide":"bottom","toNode":"c9ce24a4a6ef0631","toSide":"top"},
+		{"id":"247b6d42e2c81684","fromNode":"c9ce24a4a6ef0631","fromSide":"bottom","toNode":"9a2558eab6f835a8","toSide":"top"},
+		{"id":"5d7fe3f005d30fe5","fromNode":"9a2558eab6f835a8","fromSide":"bottom","toNode":"b8697416ab86b607","toSide":"top"},
+		{"id":"0063147b3c8a1119","fromNode":"b8697416ab86b607","fromSide":"right","toNode":"9fc3b8d33660fc25","toSide":"left"},
+		{"id":"b4434fb56640e649","fromNode":"b8697416ab86b607","fromSide":"bottom","toNode":"935e496d51e3da05","toSide":"top"},
+		{"id":"8cd5d886f87e3c53","fromNode":"935e496d51e3da05","fromSide":"bottom","toNode":"4b559297503ce9a9","toSide":"top"},
+		{"id":"0078a2e6d942f151","fromNode":"4b559297503ce9a9","fromSide":"bottom","toNode":"f7b4dc1133cd030b","toSide":"top"},
+		{"id":"3c782318e81dd565","fromNode":"f7b4dc1133cd030b","fromSide":"bottom","toNode":"39010d5c90f00e6c","toSide":"top"},
+		{"id":"40b678c0acc4b384","fromNode":"39010d5c90f00e6c","fromSide":"bottom","toNode":"800b3f8475ac9ffd","toSide":"top"}
+	]
+}

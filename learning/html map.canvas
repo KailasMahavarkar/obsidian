@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"HTML","id":"38ab64fc263946d2","x":-180,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"HTML Tags/ Elements and their attributes (done)","id":"fe599685a87bcea5","x":-180,"y":-100,"width":250,"height":154,"color":"4"},
+		{"type":"text","text":"> NOTE: Inline elements don’t have top and bottom margin","id":"5af8ddc0a627737a","x":180,"y":-12,"width":320,"height":132},
+		{"type":"text","text":"Block  Elements & Inline Elements","id":"3565be1ecee94db6","x":-180,"y":120,"width":250,"height":120,"color":"4"},
+		{"type":"text","text":"Semantic tags","id":"b6bd6143eab1d55e","x":-180,"y":300,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"04cc734d084e6783","fromNode":"38ab64fc263946d2","fromSide":"bottom","toNode":"fe599685a87bcea5","toSide":"top"},
+		{"id":"9ac5c346bd286586","fromNode":"fe599685a87bcea5","fromSide":"bottom","toNode":"3565be1ecee94db6","toSide":"top"},
+		{"id":"ffbf3c5dd4cda99c","fromNode":"3565be1ecee94db6","fromSide":"right","toNode":"5af8ddc0a627737a","toSide":"left"},
+		{"id":"1f703bcbe6d924d0","fromNode":"3565be1ecee94db6","fromSide":"bottom","toNode":"b6bd6143eab1d55e","toSide":"top"}
+	]
+}

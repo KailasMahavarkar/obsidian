@@ -1,0 +1,2 @@
+1) First we simplify or tweak some constraint, such as the data type. 
+2) we solve this new simplified version of the problem. Finally, once we have an algorithm for the simplified problem, we try to adapt it for the more complex version.

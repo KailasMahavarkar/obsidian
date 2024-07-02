@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"81c9911468553260","type":"text","text":"It validates expression when using getThemeClasses ","x":-760,"y":-160,"width":350,"height":120},
+		{"id":"366c01cf40ff3722","type":"text","text":"@babel/plugin-transform-template-literals","x":-760,"y":-340,"width":350,"height":100}
+	],
+	"edges":[
+		{"id":"c8c65a2d3f5ca96f","fromNode":"366c01cf40ff3722","fromSide":"bottom","toNode":"81c9911468553260","toSide":"top"}
+	]
+}

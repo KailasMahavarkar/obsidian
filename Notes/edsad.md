@@ -1,0 +1,1 @@
+1. give confidence 2. improve your knowledge 3. meet with enayat for improvement discusssion 4. focus on horizontal learninigng .... Q) how can my job be more enoyable

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"text","text":"Bit","id":"bee58d2f7e653232","x":-220,"y":-240,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"[[Issues with Lerna]]","id":"c8eb931a141992a4","x":160,"y":-300,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"[[StoryBook vs Bit]]","id":"d0bd3ead621a8b80","x":160,"y":-210,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"basics of bit","id":"0af5f97d8c8082a1","x":180,"y":20,"width":250,"height":60},
+		{"type":"text","text":"[[Theming using bit]]","id":"951a62e8b6a8157c","x":-140,"y":20,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"[[Bit Imports]]","id":"5124b3b0fde58b0e","x":-470,"y":20,"width":250,"height":60,"color":"4"},
+		{"id":"b3ba19423a3942fb","x":-1110,"y":-640,"width":250,"height":60,"type":"text","text":"input"},
+		{"type":"text","text":"select","id":"c33ef56651458b80","x":-780,"y":-640,"width":250,"height":60},
+		{"id":"e3b29d925fa97771","x":-940,"y":-860,"width":250,"height":60,"type":"text","text":"base components"}
+	],
+	"edges":[
+		{"id":"9573d3cdd97ecb96","fromNode":"bee58d2f7e653232","fromSide":"bottom","toNode":"5124b3b0fde58b0e","toSide":"top"},
+		{"id":"694fddec03f28566","fromNode":"bee58d2f7e653232","fromSide":"right","toNode":"c8eb931a141992a4","toSide":"left"},
+		{"id":"3d3bdbfc006715f8","fromNode":"bee58d2f7e653232","fromSide":"right","toNode":"d0bd3ead621a8b80","toSide":"left"},
+		{"id":"8de33cdf36c3b042","fromNode":"bee58d2f7e653232","fromSide":"bottom","toNode":"951a62e8b6a8157c","toSide":"top"},
+		{"id":"60d35b1164e7dfeb","fromNode":"bee58d2f7e653232","fromSide":"bottom","toNode":"0af5f97d8c8082a1","toSide":"top"},
+		{"id":"64f4050317569187","fromNode":"e3b29d925fa97771","fromSide":"bottom","toNode":"b3ba19423a3942fb","toSide":"top"},
+		{"id":"03f29237d3831e5b","fromNode":"e3b29d925fa97771","fromSide":"bottom","toNode":"c33ef56651458b80","toSide":"top"}
+	]
+}
