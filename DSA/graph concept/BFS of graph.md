@@ -3,7 +3,7 @@
 
 think you want to reach 3 starting from 0
 dfs -> 0 -> 1 -> 2 -> 3
-bfs -> 0 -> 3
+bfs -> 0 -> (1, 3) -> 2
 
 **code:**
 ```cpp

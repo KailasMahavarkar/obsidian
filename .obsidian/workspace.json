@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da3eedd5732884cf",
+        "id": "7938d47753e1e63f",
         "type": "tabs",
         "children": [
           {
-            "id": "edec48ca58c72ac7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "learning/css/cascade.canvas",
-                "viewState": {
-                  "x": 3303.5115353042124,
-                  "y": -55.40154990457188,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "d9a644f004c0ac91",
+            "id": "9c879e279bf12496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "system design/Concepts/Fan-Out architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,13 +21,11 @@
             }
           },
           {
-            "id": "2cb5e6051e07718b",
+            "id": "0beeb42e9d467e38",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20230410095317.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -111,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/css/cascade.canvas",
+                "file": "system design/Concepts/Fan-Out architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/css/cascade.canvas",
+                "file": "system design/Concepts/Fan-Out architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/css/cascade.canvas"
+                "file": "system design/Concepts/Fan-Out architecture.md"
               }
             }
           }
@@ -173,54 +156,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edec48ca58c72ac7",
+  "active": "9c879e279bf12496",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "system design/Concepts/Producer Consumer Queue.md",
+    "system design/Terms/State Change Notifications.md",
+    "system design/Terms/Long Polling.md",
+    "system design/Concepts/Fan-Out architecture.md",
+    "system design/Research/Latency Mitigation in Microservice Chains.md",
+    "system design/Core/Video Streaming Service (HLD).md",
+    "system design/Terms/Visibility Timeout.md",
+    "system design/Core",
+    "system design/Terms/HLS (HTTP Live Streaming).md",
+    "system design/Notion.md",
+    "system design/Concepts",
+    "system design/Concepts.md",
+    "system design/Terms",
+    "research/Unused classes research.canvas",
+    "Networking/OSI.md",
+    "Visualization tools.md",
+    "Todo List.md",
+    "Pasted image 20240702012813.png",
+    "Untitled.md",
     "README.md",
-    "DSA/cheatsheet/graphs_cheetsheet.canvas",
+    "research on bit/Bit Imports.md",
+    "research on bit/BIT CANVAS.canvas",
+    "oxygen/Note.md",
+    "oxygen/oxygen - working.canvas",
+    "oxygen/Transform Theme classes into Hash values..md",
+    "Git Magic/Cherry Pick Files from Another Branch.md",
+    "Exams/GateCanvas.canvas",
+    "Exams/Engineering Mathematics Canvas.canvas",
+    "Exams/Aptitude.md",
+    "DSA/Graph Map.canvas",
+    "Exams/Mathematics/Matrices/Matrices.md",
+    "DSA/DP Map (MIK).canvas",
+    "DSA/DP Map.canvas",
+    "DSA/graph concept/DSU by rank.md",
+    "DSA/Tree Concepts/Medium/Diameter Of binary tree.md",
+    "Networking",
+    "DSA/Tree Concepts/Medium/Maximum Width of binary tree (hard).md",
+    "DSA/Tree Concepts/Medium/Maximum Path Sum.md",
+    "DSA/Tree Concepts/Medium Problems.md",
+    "DSA/Heap Map.canvas",
     "DSA/cheatsheet/dp_cheetsheet.canvas",
-    "DSA/cheatsheet/Untitled.md",
+    "images/Pasted image 20230410095317.png",
+    "New Text Document.txt",
     "Pasted image 20240702013138.png",
     "Pasted image 20240702013135.png",
     "Pasted image 20240702013054.png",
-    "Pasted image 20240702012813.png",
-    "Untitled.md",
-    "learning/css/cascade.canvas",
-    "DBI/Backend/Sharding.md",
-    "images/Pasted image 20230410095317.png",
     "images/Pasted image 20230410095546.png",
     "images/minimum_fuel_cost_to_report_to_the_capital_leetcode_2477.jpeg",
     "images/Pasted image 20230410130709.png",
     "images/Pasted image 20230410095934.png",
-    "Visualization tools.md",
-    "Todo List.md",
-    "DSA/cheatsheet/graphs.canvas",
     "Pasted image 20240524154127.png",
-    "DBI/Backend/Magic of consistent hashing.md",
-    "DBI/Backend/concurrency & parallelism (multithreading & multi processing).md",
-    "DBI/Frontend/JS concepts.md",
-    "DBI/Questions to Self.md",
-    "DSA/design data structure/Hashset.md",
-    "DSA/Backtracking Map.canvas",
-    "DSA/DP Map (MIK).canvas",
-    "DSA/DP Map.canvas",
-    "DSA/backtracking/combination_sum_i.md",
-    "Exams/Engineering Mathematics Canvas.canvas",
-    "Git Magic/Cherry Pick Files from Another Branch.md",
-    "system design/Notion.md",
-    "research on bit/Bit Imports.md",
-    "research on bit/working/Terms.md",
-    "research on bit/Theming using bit.md",
-    "research on bit/StoryBook vs Bit.md",
-    "research on bit/Steps to create bit component.md",
-    "research on bit/Issues with Lerna.md",
-    "temp/Rheostat note.md",
-    "research on bit/understanding bit.md",
-    "system design/Research/Latency Mitigation in Microservice Chains.md",
-    "research on bit/Notes for bit.dev.md",
-    "research/Unused classes research.canvas",
-    "research/Integer division.md",
-    "learning/engineering/how_images_are_loaded_in_flipkart.canvas",
     "system design/Research",
     "fundamentals of system/kernal"
   ]

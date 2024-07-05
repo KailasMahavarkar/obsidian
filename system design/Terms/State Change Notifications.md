@@ -1,0 +1,1 @@
+State change notifications in an event-driven architecture provide an efficient way for systems to communicate updates without constant polling or direct database access.
