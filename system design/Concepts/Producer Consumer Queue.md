@@ -12,5 +12,13 @@ A topic is like a broadcasting station. You can publish messages to a topic, and
 
 **When should you use messaging?**
 1. **Service-to-service communication** -> set up a queue and have the frontend website code send messages to the queue and have the backend CRM service to consume them.
+
 2. **Asynchronous work item backlogs** -> Let’s say a hotel booking system needs to cancel a booking and this process takes a long time (from a few seconds to a minute). You can execute the cancellation synchronously, but then you risk annoying the customer who has to wait for the webpage to load. You can also track all pending cancellations in your database and keep polling and executing cancellations. Alternatively, you can put a message into a queue and have the same hotel booking system consume messages from that queue and perform asynchronous cancellations.
-3. 
+
+3. **[[State Change Notifications]]** -> the inventory system can publish notifications about stock changes to a topic and any interested program can subscribe to learn about those changes. 
+
+
+
+-----
+resoruces:
+https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/

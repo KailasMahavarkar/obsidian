@@ -37,6 +37,18 @@ So, Fanout here refers to SNS sending fanout messages to SQS ..... which SQS wil
     - Set up monitoring and alerts to track the performance and health of your queues. This helps in identifying and addressing bottlenecks quickly.
 
 
+### Q) What problem's can be caused if we choose to throttle requests, one such pre-assumed issue I think we might get into is request dropouts... how do we handle that?
+
+Request throttling will lead to delayed responses, which is its biggest dis-advantage. 
+
+we can always add request to retry queue(or dead letter queue) which will make sure we might in future able to re-process un-attended requests, offcourse we can implement max-retries to make sure we wont have bottleneck issues
+
+remember there is another type of queue called delayed queue will will delay request by some `x` amount of time.
+
+So key methods by which request drop can be handled is 
+1. **Retry Mechanisms**
+2. Batch Processing
+3. Prioritization
 
 # Resources:
 https://www.linkedin.com/pulse/build-fan-out-architecture-aws-using-snssqslambda-katuri-bhuvanesh/
