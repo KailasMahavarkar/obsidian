@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8d490d2bcad055d0","type":"file","file":"Pasted image 20240806141225.png","x":-435,"y":-40,"width":515,"height":333},
+		{"id":"733bd1da2cd4be0b","type":"text","text":"","x":-302,"y":-160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1557a9e83c8e0d26","fromNode":"733bd1da2cd4be0b","fromSide":"bottom","toNode":"8d490d2bcad055d0","toSide":"top"}
+	]
+}

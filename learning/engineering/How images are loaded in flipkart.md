@@ -127,7 +127,6 @@ img `srcset`:
 A list of one of more strings separated by commas indicating a set of possible image sources for the user agent to use
 
 
-
 Understanding Image srcset attribute:
 
 
