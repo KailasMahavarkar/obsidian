@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system design/Concepts/Producer Consumer Queue.md",
-                "mode": "source",
-                "backlinks": false,
+                "file": "learning/c++/Implementing Threading in C++.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -23,12 +23,35 @@
           {
             "id": "0beeb42e9d467e38",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "DSA/Stack Map.canvas",
+                "viewState": {
+                  "x": -166.17740382982285,
+                  "y": 56.319701295020806,
+                  "zoom": -0.10761510670421759
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6d1bd62f8e9b0146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Creation/Ideas/Ideas Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#saree_types",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.50152587890625
   },
   "right": {
     "id": "e60423bebf9ef4de",
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system design/Concepts/Producer Consumer Queue.md",
+                "file": "Content Creation/Ideas/Ideas Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system design/Concepts/Producer Consumer Queue.md",
+                "file": "Content Creation/Ideas/Ideas Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system design/Concepts/Producer Consumer Queue.md"
+                "file": "Content Creation/Ideas/Ideas Note.md"
               }
             }
           }
@@ -153,63 +176,68 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c879e279bf12496",
+  "active": "6d1bd62f8e9b0146",
   "lastOpenFiles": [
-    "system design/Concepts/Fan-Out architecture.md",
-    "system design/Concepts/Producer Consumer Queue.md",
-    "system design/Terms/State Change Notifications.md",
-    "system design/Terms/Long Polling.md",
-    "system design/Research/Latency Mitigation in Microservice Chains.md",
-    "system design/Core/Video Streaming Service (HLD).md",
-    "system design/Terms/Visibility Timeout.md",
-    "system design/Core",
-    "system design/Terms/HLS (HTTP Live Streaming).md",
-    "system design/Notion.md",
-    "system design/Concepts",
-    "system design/Concepts.md",
-    "system design/Terms",
-    "research/Unused classes research.canvas",
-    "Networking/OSI.md",
-    "Visualization tools.md",
-    "Todo List.md",
+    "learning/c++/LLVM.md",
+    "Content Creation/Ideas/Untitled.md",
+    "Content Creation/Ideas/Ideas Note.md",
+    "Business/Idea 1 (chothes shop)/continue.md",
+    "Untitled",
+    "Business/Idea 1 (chothes shop)/Designer Paithani.md",
+    "Business/Idea 1 (chothes shop)/Heavy Pallu Paithani.md",
+    "Business/Idea 1 (chothes shop)/Flower Design Paithani.md",
+    "Business/Idea 1 (chothes shop)/Maharani Paithani.md",
+    "Business/Idea 1 (chothes shop)/Pen Kalamkari Saree.md",
+    "Business/Idea 1 (chothes shop)/Peshwai Paithani.md",
+    "Business/Idea 1 (chothes shop)/Pure Silk Paithani.md",
+    "Business/Idea 1 (chothes shop)/Self Work Sarees.md",
+    "Business/Idea 1 (chothes shop)/@Chain Linkage Saree.md",
+    "Business/Idea 1 (chothes shop)/Types of Paithani sarees.md",
+    "DSA/Stack Map.canvas",
+    "Business/Idea 1 (chothes shop)/24 Different types of Saree's In india & their Name.md",
+    "Business/Idea 1 (chothes shop)/Self Work Saree.md",
+    "Pasted image 20240808122400.png",
+    "Pasted image 20240815163159.png",
+    "Pasted image 20240702013138.png",
+    "Pasted image 20240702013054.png",
     "Pasted image 20240702012813.png",
-    "Untitled.md",
-    "README.md",
-    "research on bit/Bit Imports.md",
+    "Pasted image 20240815163326.png",
+    "learning/c++/Implementing Threading in C++.md",
+    "learning/c++/Implementing Threading in C++.canvas",
+    "learning/engineering/How images are loaded in flipkart.md",
+    "learning/c++/Mutexes vs Semaphores.md",
+    "system design/Backend/Sharding.md",
+    "Pasted image 20240808122346.png",
+    "Pasted image 20240806141225.png",
+    "Pasted image 20240806141153.png",
+    "Pasted image 20240806141213.png",
+    "learning/engineering/Pre-commit hook.md",
+    "learning/c++",
+    "learning/html map.canvas",
+    "8086/Research about 8086.md",
+    "8086",
+    "DSA/Combinatorics/Introduction to Enumerative combinatorics.md",
+    "DBI/Questions to Self.md",
+    "DBI/day_before_interview.canvas",
+    "DBI/Frontend/JS concepts.md",
+    "system design/Concepts/Producer Consumer Queue.md",
+    "research/Unused classes research.canvas",
+    "DSA/Trees Map.canvas",
+    "system design/Blogs",
+    "system design/Core",
+    "system design/Concepts",
+    "system design/Terms",
     "research on bit/BIT CANVAS.canvas",
-    "oxygen/Note.md",
     "oxygen/oxygen - working.canvas",
-    "oxygen/Transform Theme classes into Hash values..md",
-    "Git Magic/Cherry Pick Files from Another Branch.md",
     "Exams/GateCanvas.canvas",
     "Exams/Engineering Mathematics Canvas.canvas",
-    "Exams/Aptitude.md",
-    "DSA/Graph Map.canvas",
-    "Exams/Mathematics/Matrices/Matrices.md",
-    "DSA/DP Map (MIK).canvas",
-    "DSA/DP Map.canvas",
-    "DSA/graph concept/DSU by rank.md",
-    "DSA/Tree Concepts/Medium/Diameter Of binary tree.md",
     "Networking",
-    "DSA/Tree Concepts/Medium/Maximum Width of binary tree (hard).md",
-    "DSA/Tree Concepts/Medium/Maximum Path Sum.md",
-    "DSA/Tree Concepts/Medium Problems.md",
-    "DSA/Heap Map.canvas",
-    "DSA/cheatsheet/dp_cheetsheet.canvas",
-    "images/Pasted image 20230410095317.png",
     "New Text Document.txt",
-    "Pasted image 20240702013138.png",
-    "Pasted image 20240702013135.png",
-    "Pasted image 20240702013054.png",
-    "images/Pasted image 20230410095546.png",
-    "images/minimum_fuel_cost_to_report_to_the_capital_leetcode_2477.jpeg",
-    "images/Pasted image 20230410130709.png",
-    "images/Pasted image 20230410095934.png",
-    "Pasted image 20240524154127.png",
-    "system design/Research",
-    "fundamentals of system/kernal"
+    "system design/Research"
   ]
 }

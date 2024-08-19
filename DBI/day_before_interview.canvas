@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"type":"text","text":"will you be happy?","id":"f9872f790d2cc79c","x":-440,"y":-5,"width":250,"height":65},
-		{"type":"text","text":"will you be happy?","id":"c1384ebb8f02a731","x":-440,"y":120,"width":250,"height":65},
 		{"type":"text","text":"calculate risks vs rewards\n(in perspective of her)","id":"34b9243db4d71458","x":73,"y":-140,"width":295,"height":100},
 		{"type":"text","text":"what is you motive?","id":"e5b8d7f934f9be95","x":-440,"y":-140,"width":250,"height":60},
 		{"type":"text","text":"why do you want to join this company?","id":"1fd2eea62f79541b","x":-177,"y":-380,"width":250,"height":96},
